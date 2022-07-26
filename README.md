@@ -1,6 +1,6 @@
-## Zhilin Wang（王智林）
+## Introduction
 
-Hi, I am Zhilin Wang, a Ph.D. student in the Department of Computer and Information Science at Indiana University-Purdue University Indianapolis (IUPUI), Indiana, USA. I got my Bachelor's degree from Nanchang University in June 2020, and I enrolled at IUPUI in January 2021. My research interests include Federated Learning, Edge Computing, the Internet of Things, Blockchain, Optimization Theory, and Game Theory. I'm in my second year as a Ph.D. student, and my supervisor is Dr. Qin Hu. I am the reviewer of the 2022 IEEE International Conference on Communication (ICC) and IEEE Access, and I also serve as a TPC member for ICC 2022 Workshop.
+Hi, I am Zhilin Wang (王智林), a Ph.D. student in the Department of Computer and Information Science at Indiana University-Purdue University Indianapolis (IUPUI), Indiana, USA. I got my Bachelor's degree from Nanchang University in June 2020, and I enrolled at IUPUI in January 2021. My research interests include Federated Learning, Edge Computing, the Internet of Things, Blockchain, Optimization Theory, and Game Theory. I'm in my second year as a Ph.D. student, and my supervisor is Dr. Qin Hu. I am the reviewer of the 2022 IEEE International Conference on Communication (ICC) and IEEE Access, and I also serve as a TPC member for ICC 2022 Workshop.
 
 ### Education
 
