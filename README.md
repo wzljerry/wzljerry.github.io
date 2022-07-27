@@ -45,7 +45,7 @@ The following papers are on arxiv:
 
 2. [***Wang Z***, Hu Q, blockchain-based Federated Learning: A Comprehensive Survey](https://arxiv.org/abs/2110.02182)
 
-3. [Wang Z, Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022.] (https://arxiv.org/abs/2206.02243)
+3. [Wang Z, Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022.](https://arxiv.org/abs/2206.02243)
 ### Contact Information:
 
 Department of Computer and Information Science, Indiana University-Purdue University Indianapolis, IN, USA
