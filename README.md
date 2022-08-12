@@ -11,7 +11,7 @@ Hi, I am Zhilin Wang, a Ph.D. student in the Department of Computer and Informat
 
 Research Assisstant, Indiana University-Purdue University Indianapolis, 09/2021-now.
 
-### Project
+### Projects
 
 1. 05/2022-08/2022, [HFL](https://github.com/wzljerry/Hierarchical-Federated-Learning). Hierarchical federated learning framework based on TensorFlow. 
 
