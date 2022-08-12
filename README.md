@@ -33,7 +33,7 @@ Research Assisstant, Indiana University-Purdue University Indianapolis, 09/2021-
 
 2. [Hu Q, Nigam Y, ***Wang Z***, et al. A Correlated Equilibrium based Transaction Pricing Mechanism in Blockchain[C]//2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). IEEE, 2020: 1-7.](https://ieeexplore.ieee.org/abstract/document/9169475)
 
-3. ***Wang Z***, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022.
+3. [***Wang Z***, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022.](https://arxiv.org/abs/2208.05120)
 
 
 
