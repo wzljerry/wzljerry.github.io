@@ -13,9 +13,12 @@ Research Assisstant, Indiana University-Purdue University Indianapolis, 09/2021-
 
 ### Project
 
-02/2022-05/2022, I open sourced a framework on GitHub
+1. 05/2022-08/2022, [HFL](https://github.com/wzljerry/Hierarchical-Federated-Learning). Hierarchical federated learning framework based on TensorFlow. 
 
-[FBFL: A Flexible Blockchain based Federated Learning Framework in Mobile Edge Computing](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing).
+2. 03/2022-06/2022, [Blockchain-based Edge Resource Sharing for Metaverse](https:github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse). We provide a learning-based solution of multiple knapsacks problem, which can get the approximate optimal solutions in polynomial time.
+
+3. 02/2022-05/2022, [FBFL](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing). A user-friendely and robust blockchain-based federated learning framework in MEC, which will be applied to facilitate research and practical applications. 
+
 
 ### Publications
 [Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra), [ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11)
