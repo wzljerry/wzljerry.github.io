@@ -19,6 +19,8 @@ Research Assisstant, Purdue University (Indianapolis), 09/2021-now.
 
 3. 02/2022-05/2022, FBFL. A user-friendely and robust blockchain-based federated learning framework in MEC, which will be applied to facilitate research and practical applications. [Code](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
 
+4. 11/2019-01/2020, Correlated Equbirum for Blockchain Transaction. An Approximation method is provided. [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
+
 
 ### Publications
 
