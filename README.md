@@ -2,6 +2,11 @@
 
 Hi, I am Zhilin Wang, a Ph.D. student in the Department of Computer and Information Science at Purdue University (Indianapolis), Indiana, USA. I got my Bachelor's degree from Nanchang University in June 2020, and I enrolled at IUPUI in January 2021. My research interests include Federated Learning, Edge Computing, the Internet of Things, Blockchain, Optimization Theory, and Game Theory. I'm in my second year as a Ph.D. student, and my supervisor is Dr. Qin Hu. I am the reviewer of 2022 IEEE ICC, IEEE Access, IEEE TPDS, IEEE IoTJ, and JNCA,  and I also serve as the TPC member for IEEE ICC 2022 Workshop.
 
+### News
+- 2022/08: IUPUI announced to split, our depeartment will be part of Purdue University West lafayette.
+- 2022/07: My paper, Blockchain-based Edge Resource Sharing for Metaverse, was accepted by IEEE MASS 2022.
+- 2022/04: I presented my paper, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey, in IEEE WCNC 2022.
+
 ### Education
 
 - Ph.D. student, Purdue University (Indianapolis), 01/2021-now
@@ -35,7 +40,7 @@ Research Assisstant, Purdue University (Indianapolis), 09/2021-now.
 
 #### Conference Paper
 
-1. ***Wang Z***, Qiao Kang, Xinyi Zhang, Qin Hu, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey,IEEE ICC 2022 workshop. [Link](https://arxiv.org/abs/2202.06414)
+1. ***Wang Z***, Qiao Kang, Xinyi Zhang, Qin Hu, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey,IEEE WCNC 2022 workshop. [Link](https://arxiv.org/abs/2202.06414)
 
 2. Hu Q, Nigam Y, ***Wang Z***, et al. A Correlated Equilibrium based Transaction Pricing Mechanism in Blockchain[C]//2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). IEEE, 2020: 1-7.[Link](https://ieeexplore.ieee.org/abstract/document/9169475), [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
