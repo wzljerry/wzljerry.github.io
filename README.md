@@ -1,6 +1,6 @@
 ## Biogrophy
 
-Hi, I am Zhilin Wang, a Ph.D. student in the Department of Computer and Information Science at Purdue University (Indianapolis), Indiana, USA. I got my Bachelor's degree from Nanchang University in June 2020, and I started my Ph.D. in January 2021. My research interests include Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. I'm in my third year as a Ph.D. student, and my supervisor is Dr. Qin Hu. I am the reviewer of 2022 IEEE ICC, IEEE Access, IEEE TPDS, IEEE IoTJ, and JNCA,  and I also serve as the TPC member for IEEE ICC 2022 Workshop. I am looking for intership oppertunities for 2023 summer!
+Hi, I am Zhilin Wang, a Ph.D. student in the Department of Computer and Information Science at Purdue University (Indianapolis), Indiana, USA. I got my Bachelor's degree from Nanchang University in June 2020, and I started my Ph.D. in January 2021. My research interests include Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. I'm in my third year as a Ph.D. student, and my supervisor is Dr. Qin Hu. I am the reviewer of 2022 IEEE ICC, IEEE Access, IEEE TPDS, IEEE IoTJ, and JNCA,  and I also serve as the TPC member for IEEE ICC 2022 Workshop. I am looking for internship oppertunities for 2023 summer!
 
 ### News
 
