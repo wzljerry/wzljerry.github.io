@@ -49,7 +49,7 @@ Hi, I am Zhilin Wang, a Ph.D. student in the Department of Computer and Informat
 
 2. ***ICBC***: Hu Q, Nigam Y, Wang Z, et al. A Correlated Equilibrium based Transaction Pricing Mechanism in Blockchain[C]//2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). IEEE, 2020: 1-7.[Link](https://ieeexplore.ieee.org/abstract/document/9169475), [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
-3. ***MASSS***: Wang Z, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022. [Link](https://arxiv.org/abs/2208.05120), [Code](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
+3. ***MASS***: Wang Z, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022. [Link](https://arxiv.org/abs/2208.05120), [Code](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
 
 
 
