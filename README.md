@@ -60,11 +60,11 @@ If you have any interest in conducting research with me, please feel free to ema
 
 The following papers are on arXiv:
 
-1. Wang Z, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [Link](https://arxiv.org/abs/2202.10938)
+1. Wang Z, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [Link](https://arxiv.org/abs/2202.10938),submitted to IEEE TPDS 2023.
 
 2. Wang Z, Hu Q, blockchain-based Federated Learning: A Comprehensive Survey. [Link](https://arxiv.org/abs/2110.02182)
 
-3. Wang Z, Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022. [Link](https://arxiv.org/abs/2206.02243)
+3. Wang Z, Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022. [Link](https://arxiv.org/abs/2206.02243). Submitted to IEEE IoTJ 2023.
 
 ### Contact Information:
 
