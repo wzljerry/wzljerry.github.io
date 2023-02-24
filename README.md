@@ -66,6 +66,10 @@ The following papers are on arXiv:
 
 3. Wang Z, Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022. [Link](https://arxiv.org/abs/2206.02243). Submitted to IEEE IoTJ 2023.
 
+5. A novel attack against federated learning. Submitted to Usenix Security 2023.
+
+6. A novel method to mitigate stragglers in federated learning. Submitted to IEEE ICDCS 2023.
+
 ### Contact Information:
 
 Department of Computer and Information Science, Indiana University-Purdue University Indianapolis, IN, USA
