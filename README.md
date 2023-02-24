@@ -44,7 +44,7 @@ If you have any interest in conducting research with me, please feel free to ema
 
 2. ***IoTJ***: Hu Q, Wang Z, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [Link](https://arxiv.org/abs/2110.08671), which is funded by [NSF CRII](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false).
 
-3. ***IoTJ***: Peng C, Hu Q, Wang Z, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022)[Link](https://ieeexplore.ieee.org/abstract/document/9951138)
+3. ***IoTJ***: Peng C, Hu Q, Wang Z, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). [Link](https://ieeexplore.ieee.org/abstract/document/9951138)
 
 #### Conference Paper
 
