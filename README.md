@@ -58,7 +58,7 @@ If you have any interest in conducting research with me, please feel free to ema
 
 #### Working Paper
 
-The following papers are on arXiv:
+The following papers are on arXiv or submitted to journals and conferences:
 
 1. Wang Z, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [Link](https://arxiv.org/abs/2202.10938). Submitted to IEEE TPDS 2022.
 
