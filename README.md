@@ -73,7 +73,10 @@ The following papers are on arXiv or submitted to journals and conferences:
 3. ***Wang Z***,  Hu Q et al. A novel attack against federated learning. Submitted to **Usenix Security 2023**.
 
 4. ***Wang Z***,  Hu Q et al. A novel method to mitigate stragglers in federated learning. Submitted to **IEEE ICDCS 2023**.
+
 5. xxx, Hu Q, ***Wang Z*** et al. A novel protocol for blockchain-based federated learning. Submitted to **IEEE ICDCS 2023**.
+
+6. Wang Z, Hu Q. Robust federated learning.
 
 ### Contact Information:
 
