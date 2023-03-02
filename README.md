@@ -42,21 +42,23 @@ If you have any interest in conducting research with me, please feel free to ema
 [Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra), [ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11)
 
 #### Journal Paper
-1. **IEEE TPDS 2023**：***Wang Z***, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [Link](https://arxiv.org/abs/2202.10938).(the updated version is coming soon)
+1. **IEEE TPDS'23**：***Wang Z***, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [Link](https://arxiv.org/abs/2202.10938).(the updated version is coming soon)
 
-2. **Elsevier HCC 2021**: ***Wang Z***, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [Link](https://www.sciencedirect.com/science/article/pii/S2667295221000349), [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
+2. **Elsevier HCC'21**: ***Wang Z***, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [Link](https://www.sciencedirect.com/science/article/pii/S2667295221000349), [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
-3. **IEEE IoTJ 2021**: Hu Q,***Wang Z***, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [Link](https://arxiv.org/abs/2110.08671), which is funded by [NSF CRII](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false).
+3. **IEEE IoTJ'21**: Hu Q,***Wang Z***, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [Link](https://arxiv.org/abs/2110.08671), which is funded by [NSF CRII](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false).
 
-4. **IEEE IoTJ 2022**: Peng C, Hu Q, ***Wang Z***, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). [Link](https://ieeexplore.ieee.org/abstract/document/9951138)
+4. **IEEE IoTJ'22**: Peng C, Hu Q, ***Wang Z***, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). [Link](https://ieeexplore.ieee.org/abstract/document/9951138)
 
 #### Conference Paper
 
-1. **IEEE WCNC 2022**: ***Wang Z***, Qiao Kang, Xinyi Zhang, Qin Hu, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey,IEEE WCNC 2022. [Link](https://arxiv.org/abs/2202.06414)
+1. **IEEE MASS'22**: ***Wang Z***, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022. [Link](https://arxiv.org/abs/2208.05120), [Code](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
 
-2. **IEEE ICBC 2020**: Hu Q, Nigam Y, ***Wang Z***, et al. A Correlated Equilibrium based Transaction Pricing Mechanism in Blockchain[C]//2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). IEEE, 2020: 1-7.[Link](https://ieeexplore.ieee.org/abstract/document/9169475), [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
+2. **IEEE WCNC'22**: ***Wang Z***, Qiao Kang, Xinyi Zhang, Qin Hu, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey,IEEE WCNC 2022. [Link](https://arxiv.org/abs/2202.06414)
 
-3. **IEEE MASS 2022**: ***Wang Z***, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022. [Link](https://arxiv.org/abs/2208.05120), [Code](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
+3. **IEEE ICBC'20**: Hu Q, Nigam Y, ***Wang Z***, et al. A Correlated Equilibrium based Transaction Pricing Mechanism in Blockchain[C]//2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). IEEE, 2020: 1-7.[Link](https://ieeexplore.ieee.org/abstract/document/9169475), [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
+
+
 
 
 
