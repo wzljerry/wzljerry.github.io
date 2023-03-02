@@ -76,7 +76,9 @@ The following papers are on arXiv or submitted to journals and conferences:
 
 5. xxx, Hu Q, ***Wang Z*** et al. A novel protocol for blockchain-based federated learning. Submitted to **IEEE ICDCS 2023**.
 
-6. Wang Z, Hu Q. Robust federated learning.
+6. ***Wang Z***, Hu Q. Robust federated learning.
+
+7. ***Wang Z***, Hu Q. A general federated learning framework.
 
 ### Contact Information:
 
