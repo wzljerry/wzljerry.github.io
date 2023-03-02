@@ -1,6 +1,6 @@
 ## Biogrophy
 
-[[Google Scholar]](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Zhilin-Wang-11) [[CV]](Zhilin Wang_CV_2023.pdf)
+[[Google Scholar]](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra) [[ResearchGate]](https://www.researchgate.net/profile/Zhilin-Wang-11) [[CV]](CV.pdf)
 
 **I am looking for internship oppertunities for 2023 summer!**
 
