@@ -44,6 +44,7 @@ If you have any interest in conducting research with me, please feel free to ema
 
 
 #### Journal Paper
+
 1. **IEEE TPDS'23**：***Wang Z***, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [[Link]](https://arxiv.org/abs/2202.10938) [[PDF]](TPDS.pdf)
 
 2. **Elsevier HCC'21**:  ***Wang Z***, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [[Link]](https://www.sciencedirect.com/science/article/pii/S2667295221000349) [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction) [[PDF]](HCC.pdf)
