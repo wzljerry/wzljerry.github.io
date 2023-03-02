@@ -28,7 +28,7 @@ If you have any interest in conducting research with me, please feel free to ema
 
 ### Open Sourced Projects
 
-1. 05/2022-08/2022, HFL. A benchmark of hierarchical federated learning based on TensorFlow. [Code](https://github.com/wzljerry/Hierarchical-Federated-Learning)
+1. 05/2022-08/2022, HFL. A benchmark of hierarchical federated learning based on TensorFlow. [[Code]](https://github.com/wzljerry/Hierarchical-Federated-Learning)
 
 2. 03/2022-06/2022, Blockchain-based Edge Resource Sharing for Metaverse. We provide a learning-based solution of multiple knapsacks problem, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
 
