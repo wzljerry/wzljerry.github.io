@@ -78,6 +78,4 @@ Department of Computer and Information Science, Indiana University-Purdue Univer
 
 Office: IO 276, 625 W Michigan Street
 
-Tel: (317)274-3815
-
 Email: wangzhil AT iu DOT edu
