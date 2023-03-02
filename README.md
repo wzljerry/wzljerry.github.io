@@ -7,6 +7,8 @@ If you have any interest in conducting research with me, please feel free to ema
 
 ### News
 
+- 2023/03: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepetd by IEEE TPDS! This is my first paper which will be published in top journal!
+
 - 2022/12: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted by IEEE Internet of Things Journal.
 - 2022/10: I was invited to present our paper, Blockchain-based Edge Resource Sharing for Metaverse, in IEEE MASS 2022, Denver, USA.
 - 2022/08: IUPUI announced to split, our depeartment will be part of Purdue University West lafayette.
@@ -39,12 +41,13 @@ If you have any interest in conducting research with me, please feel free to ema
 [Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra), [ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11)
 
 #### Journal Paper
+1. ***IEEE TPDS***： Wang Z, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [Link](https://arxiv.org/abs/2202.10938).(the updated version is coming soon)
 
-1. ***HCC***: Wang Z, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [Link](https://www.sciencedirect.com/science/article/pii/S2667295221000349), [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
+2. ***HCC***: Wang Z, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [Link](https://www.sciencedirect.com/science/article/pii/S2667295221000349), [Code](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
-2. ***IoTJ***: Hu Q, Wang Z, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [Link](https://arxiv.org/abs/2110.08671), which is funded by [NSF CRII](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false).
+3. ***IoTJ***: Hu Q, Wang Z, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [Link](https://arxiv.org/abs/2110.08671), which is funded by [NSF CRII](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false).
 
-3. ***IoTJ***: Peng C, Hu Q, Wang Z, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). [Link](https://ieeexplore.ieee.org/abstract/document/9951138)
+4. ***IoTJ***: Peng C, Hu Q, Wang Z, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). [Link](https://ieeexplore.ieee.org/abstract/document/9951138)
 
 #### Conference Paper
 
@@ -60,15 +63,13 @@ If you have any interest in conducting research with me, please feel free to ema
 
 The following papers are on arXiv or submitted to journals and conferences:
 
-1. Wang Z, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [Link](https://arxiv.org/abs/2202.10938). Submitted to IEEE TPDS 2022.
+1. Wang Z, Hu Q, blockchain-based Federated Learning: A Comprehensive Survey. [Link](https://arxiv.org/abs/2110.02182)
 
-2. Wang Z, Hu Q, blockchain-based Federated Learning: A Comprehensive Survey. [Link](https://arxiv.org/abs/2110.02182)
+2. Wang Z, Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022. [Link](https://arxiv.org/abs/2206.02243). Submitted to IEEE IoTJ 2023.
 
-3. Wang Z, Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022. [Link](https://arxiv.org/abs/2206.02243). Submitted to IEEE IoTJ 2023.
+3. A novel attack against federated learning. Submitted to Usenix Security 2023.
 
-5. A novel attack against federated learning. Submitted to Usenix Security 2023.
-
-6. A novel method to mitigate stragglers in federated learning. Submitted to IEEE ICDCS 2023.
+4. A novel method to mitigate stragglers in federated learning. Submitted to IEEE ICDCS 2023.
 
 ### Contact Information:
 
