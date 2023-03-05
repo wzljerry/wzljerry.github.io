@@ -46,7 +46,7 @@ If you have any interest in conducting research with me, please feel free to ema
 
 2. **[Elsevier HCC]**:  ***Wang Z***, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [[Link]](https://www.sciencedirect.com/science/article/pii/S2667295221000349) [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction) [[PDF]](HCC.pdf)
 
-3. **[IEEE IoTJ]**:  Hu Q, ***Wang Z***, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [[Link]](https://arxiv.org/abs/2110.08671) (**JCR Q1, CCF C**) [[PDF]](FEL.pdf) [[NSF CRII]](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false)
+3. **[IEEE IoTJ]**:  Hu Q, ***Wang Z***, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. (**JCR Q1, CCF C**) [[Link]](https://arxiv.org/abs/2110.08671) [[PDF]](FEL.pdf) [[NSF CRII]](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false)
 
 4. **[IEEE IoTJ]**:  Peng C, Hu Q, ***Wang Z***, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). (**JCR Q1, CCF C**) [[Link]](https://ieeexplore.ieee.org/abstract/document/9951138) [[PDF]](online.pdf)
 
