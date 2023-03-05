@@ -11,8 +11,8 @@ If you have any interest in conducting research with me, please feel free to ema
 
 ### News
 
-- **[2023/03]**: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepetd to IEEE Transactions on Parallel and Distributed Systems!
-- **[2022/12]**: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted by IEEE Internet of Things Journal.
+- **[03/2023]**: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepetd to IEEE Transactions on Parallel and Distributed Systems!
+- **[12/2022]**: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted by IEEE Internet of Things Journal.
 
 
 ### Education
