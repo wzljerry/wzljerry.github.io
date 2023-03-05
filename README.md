@@ -13,10 +13,10 @@ If you have any interest in conducting research with me, please feel free to ema
 
 - **[2023/03]**: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepetd by IEEE TPDS! This is my first paper which will be published in top journal!
 - **[2022/12]**: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted by IEEE Internet of Things Journal.
-- **[2022/10]**: I was invited to present our paper, Blockchain-based Edge Resource Sharing for Metaverse, in IEEE MASS 2022, Denver, USA.
-- **[2022/08]**: IUPUI announced to split, our depeartment will be part of Purdue University West lafayette.
-- **[2022/07]**: Our paper, Blockchain-based Edge Resource Sharing for Metaverse, was accepted by IEEE MASS 2022.
-- **[2022/04]**: I presented our paper, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey, in IEEE WCNC 2022.
+%- **[2022/10]**: I was invited to present our paper, Blockchain-based Edge Resource Sharing for Metaverse, in IEEE MASS 2022, Denver, USA.
+%- **[2022/08]**: IUPUI announced to split, our depeartment will be part of Purdue University West lafayette.
+%- **[2022/07]**: Our paper, Blockchain-based Edge Resource Sharing for Metaverse, was accepted by IEEE MASS 2022.
+%- **[2022/04]**: I presented our paper, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey, in IEEE WCNC 2022.
 
 ### Education
 
