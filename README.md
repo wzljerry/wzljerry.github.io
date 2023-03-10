@@ -4,7 +4,7 @@
 
 **I am looking for internship oppertunities for 2023 summer!**
 
-Hi, I am Zhilin Wang, a Ph.D. student in the Department of Computer and Information Science at Purdue University Indianapolis, Indiana, USA. I got my Bachelor's degree from Nanchang University in June 2020, and I started my Ph.D. in January 2021. My research interests include Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. I'm in my third year as a Ph.D. student, and my supervisor is [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.). I am the reviewer of IEEE TPDS, IEEE IoTJ, IEEE ICC'22, IEEE Access, Elsevier HCC, and JNCA,  and I also serve as the TPC member for IEEE ICC'22 Workshop. 
+Hi, I am Zhilin Wang, a Ph.D. student in the Department of Computer and Information Science at Purdue University, Indiana, USA. I got my Bachelor's degree from Nanchang University in June 2020, and I started my Ph.D. in January 2021. My research interests include Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. I'm in my third year as a Ph.D. student, and my supervisor is [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.). I am the reviewer of IEEE TPDS, IEEE IoTJ, IEEE ICC'22, IEEE Access, Elsevier HCC, and JNCA,  and I also serve as the TPC member for IEEE ICC'22 Workshop. 
 
 
 If you have any interest in conducting research with me, please feel free to email me and we can schedule a meeting to discuss the potential opportunity.
@@ -17,7 +17,7 @@ If you have any interest in conducting research with me, please feel free to ema
 
 ### Education
 
-- Ph.D. student, Purdue University Indianapolis, 01/2021-now
+- Ph.D. student, Purdue University, 01/2021-now
 - B.S., Nanchang University, 09/2016-06/2020
 
 ### Working Experiences
