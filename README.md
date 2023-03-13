@@ -59,9 +59,6 @@ If you have any interest in conducting research with me, please feel free to ema
 3. **[IEEE ICBC'20]**:  Hu Q, Nigam Y, ***Wang Z***, et al. A Correlated Equilibrium based Transaction Pricing Mechanism in Blockchain[C]//2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). IEEE, 2020: 1-7. [[Link]](https://ieeexplore.ieee.org/abstract/document/9169475) [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction) [[PDF]](ICBC.pdf)
 
 
-
-
-
 #### Working Paper
 
 The following papers are on arXiv or submitted to journals and conferences:
