@@ -17,7 +17,7 @@ If you have any interest in conducting research with me, please feel free to ema
 
 ### Education
 
-- Ph.D. student, Purdue University, 01/2021-now
+- Ph.D. student, Purdue University, 01/2021-present
 - B.S., Nanchang University, 09/2016-06/2020
 
 ### Working Experiences
