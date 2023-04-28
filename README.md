@@ -22,8 +22,8 @@ If you have any interest in conducting research with me, please feel free to ema
 
 ### Working Experiences
 
-- Research Assisstant, Purdue University, 09/2021-now.
-- Student Tutor, Purdue University, 05/2022-09/2022.
+- Research Assisstant, Purdue University, Indianapolis, 09/2021-now.
+- Student Tutor, Purdue University, Indianapolis, 05/2022-09/2022.
 
 ### Open Sourced Projects
 
