@@ -2,7 +2,7 @@
 
 [[Google Scholar]](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra)  [[ResearchGate]](https://www.researchgate.net/profile/Zhilin-Wang-11)  [[CV]](CV.pdf)  [[Blog]](https://medium.com/@hellojerrywong18)
 
-**I am looking for internship oppertunities for 2023 summer!**
+
 
 Hi, I am Zhilin Wang, a third-year Ph.D. student in the Department of Computer and Information Science at Purdue University, Indianapolis, Indiana, USA. I got my Bachelor's degree from Nanchang University in June 2020, and I started my Ph.D. in January 2021. My research interests include Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. My supervisor is [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.). I am the reviewer of IEEE TPDS, IEEE IoTJ, Elsevier JNCA, IEEE TCCN, IEEE ICC'22, IEEE Access, and Elsevier HCC, and I also serve as the TPC member for IEEE ICC'22 Workshop. 
 
