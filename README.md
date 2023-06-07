@@ -75,7 +75,7 @@ The following papers are on arXiv or submitted to journals and conferences:
 
 ### Contact Information:
 
-Department of Computer and Information Science, Indiana University-Purdue University Indianapolis, IN, USA
+Department of Computer and Information Science, Purdue University, Indianapolis, IN, USA
 
 Office: IO 276, 625 W Michigan Street
 
