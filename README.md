@@ -4,7 +4,7 @@
 
 
 
-Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Computer and Information Science at Purdue University, Indianapolis, Indiana, USA. I completed my Bachelor's degree at Nanchang University in June 2020 and began my Ph.D. program in January 2021. My research interests encompass Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. I am supervised by [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.). I serve as a reviewer for prestigious journals and conferences such as IEEE TPDS, IEEE IoTJ, Elsevier JNCA, IEEE TCCN, IEEE ICC'22. Additionally, I am a member of the Technical Program Committee (TPC) for the IEEE ICC'22 Workshop.
+Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Computer Science at Purdue University, Indiana, USA. I completed my Bachelor's degree at Nanchang University in June 2020 and began my Ph.D. program in January 2021. My research interests encompass Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. I am supervised by [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.). I serve as a reviewer for prestigious journals and conferences such as IEEE TPDS, IEEE IoTJ, Elsevier JNCA, IEEE TCCN, IEEE ICC'22. Additionally, I am a member of the Technical Program Committee (TPC) for the IEEE ICC'22 Workshop.
 
 
 If you have any interest in conducting research with me, please feel free to email me and we can schedule a meeting to discuss the potential opportunity.
@@ -22,8 +22,8 @@ If you have any interest in conducting research with me, please feel free to ema
 
 ### Working Experiences
 
-- Research Assisstant, Purdue University, Indianapolis, 09/2021-now.
-- Student Tutor, Purdue University, Indianapolis, 05/2022-09/2022.
+- Research Assistant, Purdue University, 09/2021-now.
+- Student Tutor, Purdue University, 05/2022-09/2022.
 
 ### Open Sourced Projects
 
@@ -54,7 +54,7 @@ If you have any interest in conducting research with me, please feel free to ema
 
 1. **[IEEE MASS'22]**:  ***Wang Z***, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022. (**CCF C**) [[Link]](https://arxiv.org/abs/2208.05120) [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse) [[PDF]](MASS.pdf)
 
-2. **[IEEE WCNC'22]**:  ***Wang Z***, Qiao Kang, Xinyi Zhang, Qin Hu, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey,IEEE WCNC 2022. (**CCF C**) [[Link]](https://arxiv.org/abs/2202.06414) [[PDF]](WCNC.pdf)
+2. **[IEEE WCNC'22]**:  ***Wang Z***, Qiao Kang, Xinyi Zhang, Qin Hu, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey, IEEE WCNC 2022. (**CCF C**) [[Link]](https://arxiv.org/abs/2202.06414) [[PDF]](WCNC.pdf)
 
 3. **[IEEE ICBC'20]**:  Hu Q, Nigam Y, ***Wang Z***, et al. A Correlated Equilibrium based Transaction Pricing Mechanism in Blockchain[C]//2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). IEEE, 2020: 1-7. [[Link]](https://ieeexplore.ieee.org/abstract/document/9169475) [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction) [[PDF]](ICBC.pdf)
 
@@ -75,7 +75,7 @@ The following papers are on arXiv or submitted to journals and conferences:
 
 ### Contact Information:
 
-Department of Computer and Information Science, Purdue University, Indianapolis, IN, USA
+Department of Computer Science, Purdue University, IN, USA
 
 Office: IO 276, 625 W Michigan Street
 
