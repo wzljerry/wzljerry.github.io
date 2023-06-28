@@ -63,13 +63,13 @@ If you have any interest in conducting research with me, please feel free to ema
 
 The following papers are on arXiv or submitted to journals and conferences:
 
-1. ***Wang Z***,  Hu Q, blockchain-based Federated Learning: A Comprehensive Survey. [[Link]](https://arxiv.org/abs/2110.02182) [[PDF]](BCFL_survey) Will submit to **IEEE Communications Surveys & Tutorials**.
+1. ***Wang Z***,  Hu Q, blockchain-based Federated Learning: A Comprehensive Survey. [[Link]](https://arxiv.org/abs/2110.02182) [[PDF]](BCFL_survey). Will be submitted to **IEEE Communications Surveys & Tutorials**.
 
 2. ***Wang Z***,  Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022. [[Link]](https://arxiv.org/abs/2206.02243). Submitted to **IEEE IoTJ**. [[PDF]](IoTJ.pdf)
 
 3. ***Wang Z***,  Hu Q et al. A novel attack against federated learning. Submitted to **NDSS ‘24**.
 
-4. ***Wang Z***, Hu Q. A Robust federated learning algorithm.  Will submit to **S&P (Oakland) ‘24**.
+4. ***Wang Z***, Hu Q. A Robust federated learning algorithm.  Will be submitted to **S&P (Oakland) ‘24**.
 
 5. ***Wang Z***, Hu Q. A general federated learning framework.
 
