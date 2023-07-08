@@ -7,8 +7,6 @@
 Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Computer Science at Purdue University, Indiana, USA. I obtained my Bachelor's degree at Nanchang University in June 2020 and began my Ph.D. program at Purdue in January 2021. My research interests encompass Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. I am supervised by [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.). I serve as a reviewer for prestigious journals and conferences such as IEEE TPDS, IEEE IoTJ, Elsevier JNCA, IEEE TCCN, IEEE ICC'22. Additionally, I am a member of the Technical Program Committee (TPC) for the IEEE ICC'22 Workshop. 
 
 
-If you have any interest in conducting research with me, please feel free to email me and we can schedule a meeting to discuss the potential opportunity.
-
 ### News
 
 - **[03/2023]**: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepted to IEEE Transactions on Parallel and Distributed Systems (**JCR Q1, CCF A**)!
