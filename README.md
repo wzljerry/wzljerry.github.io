@@ -1,6 +1,6 @@
 ## Biogrophy
 
-[[Google Scholar]](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra)  [[ResearchGate]](https://www.researchgate.net/profile/Zhilin-Wang-11)  [[CV]](CV.pdf)  [[Blog]](https://medium.com/@hellojerrywong18)
+[Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra)  [ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11)  [CV](CV.pdf)  [Blog](https://medium.com/@hellojerrywong18)
 
 
 
