@@ -1,10 +1,12 @@
-## Biogrophy
+### Biography
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra) | [ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11) | [CV](CV.pdf) | [Blog](https://medium.com/@hellojerrywong18)
 
 
 
 Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Computer Science at Purdue University, Indiana, USA. I obtained my Bachelor's degree at Nanchang University in June 2020 and began my Ph.D. program at Purdue in January 2021. My research interests encompass Federated Learning, Edge Computing, Blockchain, Optimization Theory, and Game Theory. I am supervised by [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.). I serve as a reviewer for prestigious journals and conferences such as IEEE TPDS, IEEE IoTJ, Elsevier JNCA, IEEE TCCN, IEEE ICC'22. Additionally, I am a member of the Technical Program Committee (TPC) for the IEEE ICC'22 Workshop. 
+
+- ##### Blockchain-based Federated Learning.  
 
 
 ### News
@@ -27,9 +29,9 @@ Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Comput
 
 1. 05/2022-08/2022, HFL. A benchmark of hierarchical federated learning based on TensorFlow. [[Code]](https://github.com/wzljerry/Hierarchical-Federated-Learning)
 
-2. 03/2022-06/2022, Blockchain-based Edge Resource Sharing for Metaverse. We provide a learning-based solution of multiple knapsacks problem, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
+2. 03/2022-06/2022, Blockchain-based Edge Resource Sharing for Metaverse. We provide a learning-based solution to multiple knapsacks problem, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
 
-3. 02/2022-05/2022, FBFL. A user-friendely and robust blockchain-based federated learning framework in MEC, which will be applied to facilitate research and practical applications. [[Code]](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
+3. 02/2022-05/2022, FBFL. A user-friendly and robust blockchain-based federated learning framework in MEC will be applied to facilitate research and practical applications. [[Code]](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
 
 4. 11/2019-01/2020, Correlated Equbirum for Blockchain Transaction. An Approximation method is provided. [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
