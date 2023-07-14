@@ -10,6 +10,8 @@ Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Comput
 - Robust Federated Learning: Attacks and Defenses. Revealing the vulnerabilities of existing security mechanisms in federated learning and proposing lightweight and general schemes to protect industrial federated learning systems. 
 - Efficient Mobile Edge Computing. Designing a resource-sharing platform to facilitate computational resource allocation on mobile edge servers.
 
+In general, I am interested in the efficiency and security issues of distributed systems.
+
 
 ### News
 
