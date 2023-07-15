@@ -8,7 +8,7 @@ Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Comput
 
 - Blockchain-based Federated Learning. Implementing blockchain to assist in achieving decentralized federated learning with a focus on addressing the challenges of resource allocation on local and edge devices and straggler mitigation in a hierarchical system.
 - Robust Federated Learning: Attacks and Defenses. Revealing the vulnerabilities of existing security mechanisms in federated learning and proposing lightweight and general schemes to protect industrial federated learning systems. 
-- Efficient Mobile Edge Computing. Designing a resource-sharing platform to facilitate computational resource allocation on mobile edge servers.
+- Efficient Mobile Edge Computing. Designing efficient resource-sharing schemes to facilitate computational resource allocation on mobile edge servers.
 
 
 ### News
