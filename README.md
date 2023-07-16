@@ -19,7 +19,7 @@ Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Comput
 
 ### Education
 
-- Ph.D. student, Purdue University, 01/2021-present
+- Ph.D., Purdue University, 01/2021-present
 - B.S., Nanchang University, 09/2016-06/2020
 
 ### Working Experiences
