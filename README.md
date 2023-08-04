@@ -72,7 +72,7 @@ The following papers are on arXiv or submitted to journals and conferences:
 
 4. ***Wang Z***,  Hu Q et al. A novel attack against federated learning. Submitted to **NDSS ‘24**.
 
-5. ***Wang Z***, Hu Q. A Robust federated learning algorithm.  Will be submitted to **S&P (Oakland) ‘24**.
+5. ***Wang Z***, Hu Q. A Robust federated learning algorithm.  Will be submitted to **USENIX Security ‘24**.
 
 6. ***Wang Z***, Hu Q. A general federated learning framework.
 
