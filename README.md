@@ -1,6 +1,6 @@
 ### Biography
 
-[Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra)|[ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11) | [CV](CV.pdf)|[Blog](https://medium.com/@hellojerrywong18)|[Twitter](https://twitter.com/zhilinwang97)|[LinkedIn](https://www.linkedin.com/in/zhilin-wang-438618140/?locale=en_US)
+[Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra)|[ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11)|[CV](CV.pdf)|[Blog](https://medium.com/@hellojerrywong18)|[Twitter](https://twitter.com/zhilinwang97)|[LinkedIn](https://www.linkedin.com/in/zhilin-wang-438618140/?locale=en_US)
 
 
 
