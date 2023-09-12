@@ -78,4 +78,4 @@ Department of Computer Science, Purdue University, IN, USA
 
 Office: IO 276, 625 W Michigan Street
 
-Email: wangzhil AT iu DOT edu, zhilinwang6314@gmail.com
+Email: wangzhil AT iu DOT edu, zhilinwang6314 AT gmail DOT com
