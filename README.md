@@ -29,13 +29,13 @@ Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Comput
 
 ### Open Sourced Projects
 
-1. 05/2022-08/2022, HFL. A benchmark of hierarchical federated learning based on TensorFlow. [[Code]](https://github.com/wzljerry/Hierarchical-Federated-Learning)
+1. **HFL**. A benchmark of hierarchical federated learning based on TensorFlow. [[Code]](https://github.com/wzljerry/Hierarchical-Federated-Learning)
 
-2. 03/2022-06/2022, Blockchain-based Edge Resource Sharing for Metaverse. We provide a learning-based solution to multiple knapsack problems, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
+2. **RL-based Knapsack Problem Solver**. We provide a learning-based solution to multiple knapsack problems, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
 
-3. 02/2022-05/2022, FBFL. A user-friendly and robust blockchain-based federated learning framework in MEC will be applied to facilitate research and practical applications. [[Code]](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
+3. **FBFL**. A user-friendly and robust blockchain-based federated learning framework in MEC will be applied to facilitate research and practical applications. [[Code]](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
 
-4. 11/2019-01/2020, Correlated Equbirum for Blockchain Transaction. An Approximation method is provided. [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
+4. **Correlated Equbirum Optimizer**. An Approximation method is provided. [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
 
 ### Publications
