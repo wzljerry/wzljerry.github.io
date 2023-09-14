@@ -31,7 +31,7 @@ Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Comput
 
 1. 05/2022-08/2022, HFL. A benchmark of hierarchical federated learning based on TensorFlow. [[Code]](https://github.com/wzljerry/Hierarchical-Federated-Learning)
 
-2. 03/2022-06/2022, Blockchain-based Edge Resource Sharing for Metaverse. We provide a learning-based solution to multiple knapsacks problem, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
+2. 03/2022-06/2022, Blockchain-based Edge Resource Sharing for Metaverse. We provide a learning-based solution to multiple knapsack problems, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
 
 3. 02/2022-05/2022, FBFL. A user-friendly and robust blockchain-based federated learning framework in MEC will be applied to facilitate research and practical applications. [[Code]](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
 
@@ -78,4 +78,4 @@ Department of Computer Science, Purdue University, IN, USA
 
 Office: IO 276, 625 W Michigan Street
 
-Email: wang5327 AT purdue DOT edu, wangzhil AT iu DOT edu, zhilinwang6314 AT gmail DOT com
+Email: wang5327 AT purdue DOT edu (prefered), wangzhil AT iu DOT edu, zhilinwang6314 AT gmail DOT com (personal)
