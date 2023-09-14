@@ -35,7 +35,7 @@ Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Comput
 
 3. **Blockchain-based FL**. A user-friendly and robust blockchain-based federated learning framework in MEC will be applied to facilitate research and practical applications. [[Code]](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
 
-4. **Correlated Equbirum Optimizer**. An Approximation method is provided. [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
+4. **Correlated Equbirum Optimizer**. An approximation method is provided. [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
 
 ### Publications
