@@ -14,8 +14,8 @@ I obtained my B.S. at Nanchang University in June 2020 and started my Ph.D. prog
 
 ### News
 
-- **[03/2023]**: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepted to IEEE Transactions on Parallel and Distributed Systems (**JCR Q1, CCF A**)!
-- **[12/2022]**: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted to IEEE Internet of Things Journal (**JCR Q1, CCF C**)!
+- **[03/2023]**: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepted to IEEE Transactions on Parallel and Distributed Systems!
+- **[12/2022]**: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted to IEEE Internet of Things Journal!
 
 
 ### Education
@@ -45,19 +45,19 @@ I obtained my B.S. at Nanchang University in June 2020 and started my Ph.D. prog
 
 #### Journal Paper
 
-1. **[IEEE TPDS]**：***Wang Z***, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. (**JCR Q1, CCF A**)[[Link]](https://ieeexplore.ieee.org/document/10061576) [[PDF]](TPDS.pdf)
+1. **[IEEE TPDS]**：***Wang Z***, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [[Link]](https://ieeexplore.ieee.org/document/10061576) [[PDF]](TPDS.pdf)
 
 2. **[Elsevier HCC]**:  ***Wang Z***, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [[Link]](https://www.sciencedirect.com/science/article/pii/S2667295221000349) [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction) [[PDF]](HCC.pdf)
 
-3. **[IEEE IoTJ]**:  Hu Q, ***Wang Z***, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. (**JCR Q1, CCF C**) [[Link]](https://arxiv.org/abs/2110.08671) [[PDF]](FEL.pdf) [[NSF CRII]](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false)
+3. **[IEEE IoTJ]**:  Hu Q, ***Wang Z***, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [[Link]](https://arxiv.org/abs/2110.08671) [[PDF]](FEL.pdf) [[NSF CRII]](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false)
 
-4. **[IEEE IoTJ]**:  Peng C, Hu Q, ***Wang Z***, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). (**JCR Q1, CCF C**) [[Link]](https://ieeexplore.ieee.org/abstract/document/9951138) [[PDF]](online.pdf)
+4. **[IEEE IoTJ]**:  Peng C, Hu Q, ***Wang Z***, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). [[Link]](https://ieeexplore.ieee.org/abstract/document/9951138) [[PDF]](online.pdf)
 
 #### Conference Paper
 
-1. **[IEEE MASS'22]**:  ***Wang Z***, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022. (**CCF C**) [[Link]](https://arxiv.org/abs/2208.05120) [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse) [[PDF]](MASS.pdf)
+1. **[IEEE MASS'22]**:  ***Wang Z***, Qin Hu, et al. Blockchain-based  Edge Resource Sharing for Metaverse. IEEE MASS 2022. [[Link]](https://arxiv.org/abs/2208.05120) [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse) [[PDF]](MASS.pdf)
 
-2. **[IEEE WCNC'22]**:  ***Wang Z***, Qiao Kang, Xinyi Zhang, Qin Hu, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey, IEEE WCNC 2022. (**CCF C**) [[Link]](https://arxiv.org/abs/2202.06414) [[PDF]](WCNC.pdf)
+2. **[IEEE WCNC'22]**:  ***Wang Z***, Qiao Kang, Xinyi Zhang, Qin Hu, Defense Strategies Toward Model Poisoning Attacks in Federated Learning: A Survey, IEEE WCNC 2022. [[Link]](https://arxiv.org/abs/2202.06414) [[PDF]](WCNC.pdf)
 
 3. **[IEEE ICBC'20]**:  Hu Q, Nigam Y, ***Wang Z***, et al. A Correlated Equilibrium based Transaction Pricing Mechanism in Blockchain[C]//2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC). IEEE, 2020: 1-7. [[Link]](https://ieeexplore.ieee.org/abstract/document/9169475) [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction) [[PDF]](ICBC.pdf)
 
