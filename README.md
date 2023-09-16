@@ -39,7 +39,7 @@ I obtained my B.S. at Nanchang University in June 2020 and started my Ph.D. prog
 4. **Correlated Equbirum Optimizer**. An approximation method is provided. [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
 
-### Publications
+### Selected Publications
 
 
 
