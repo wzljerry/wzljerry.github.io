@@ -4,7 +4,7 @@
 
 
 
-Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Computer Science at Purdue University, Indiana, USA. I am also an affiliated student member of The Center for Education and Research in Information Assurance and Security (CERIAS) at Purdue.
+Hello, I'm Zhilin Wang, a third-year Ph.D. candidate in the Department of Computer Science at Purdue University, Indiana, USA. I am also an affiliated student of The Center for Education and Research in Information Assurance and Security (CERIAS) at Purdue.
 I obtained my B.S. at Nanchang University in June 2020 and started my Ph.D. program at Purdue in January 2021. I am supervised by [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.). I serve as a reviewer for prestigious journals and conferences such as IEEE TPDS, IEEE IoTJ, Elsevier JNCA, IEEE TCCN, IEEE ICC'22. Additionally, I am a member of the Technical Program Committee (TPC) for the IEEE ICC'22 Workshop. My research interests are briefly described below:
 
 - Blockchain-based Federated Learning. Implementing blockchain to achieve decentralized federated learning focuses on addressing the challenges of resource allocation on local and edge devices and straggler mitigation in a hierarchical system.
