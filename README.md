@@ -72,7 +72,7 @@ The following papers are on arXiv or submitted to journals and conferences:
 
 ### Supervised Students
 
-The students below are all from the CS department at Purdue University. They performed excellently during the time they worked with me.
+The students below are all from the CS department at Purdue. They performed excellently during the time they worked with me.
 
 #### Undergraduates
 1. Garrett Sanders (Graduated in May 2022)
