@@ -75,18 +75,18 @@ The following papers are on arXiv or submitted to journals and conferences:
 The students below are all from the CS department at Purdue University.
 
 #### Undergraduates
-Garrett Sanders (Graduated in May 2022)
+1. Garrett Sanders (Graduated in May 2022)
 
-Minh Khuat (Graduated in May 2022)
+2. Minh Khuat (Graduated in May 2022)
 
-Samuel Sibhatu
+2. Samuel Sibhatu
 
-Richard Ekwenibe
+4. Richard Ekwenibe
 
 #### Master Students
-Arushi Pandit
+1. Arushi Pandit
 
-Akshita Gupta
+2. Akshita Gupta
 
 
 ### Contact Information:
