@@ -70,6 +70,21 @@ The following papers are on arXiv or submitted to journals and conferences:
 5. ***Wang Z***,  Hu Q et al. A novel attack against federated learning. Submitted to **USENIX Security ‘24**.
 6. ***Wang Z***, Hu Q. A Robust federated learning algorithm.  Will be submitted to **S&P '24**.
 
+### Supervised Student
+
+The students below are all from the CS department at Purdue University.
+
+## Undergraduates
+Garrett Sanders (Graduated in May 2022)
+Minh Khuat (Graduated in May 2022)
+Samuel Sibhatu
+Richard Ekwenibe
+
+## Master Students
+Arushi Pandit
+Akshita Gupta
+
+
 ### Contact Information:
 
 Department of Computer Science, Purdue University, IN, USA
