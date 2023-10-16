@@ -76,12 +76,16 @@ The students below are all from the CS department at Purdue University.
 
 #### Undergraduates
 Garrett Sanders (Graduated in May 2022)
+
 Minh Khuat (Graduated in May 2022)
+
 Samuel Sibhatu
+
 Richard Ekwenibe
 
 #### Master Students
 Arushi Pandit
+
 Akshita Gupta
 
 
