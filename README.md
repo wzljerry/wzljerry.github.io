@@ -83,6 +83,8 @@ The students below are all from the CS department at Purdue University.
 
 4. Richard Ekwenibe
 
+5. Xinyi Zhang (Graduated in May 2023, now at Simon Fraser University)
+
 #### Master Students
 1. Arushi Pandit
 
