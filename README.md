@@ -89,6 +89,8 @@ The students below are all from the CS department at Purdue University. They per
 1. Arushi Pandit
 
 2. Akshita Gupta
+   
+4. Joe Kang (Graduated in Dec 2022)
 
 
 ### Contact Information:
