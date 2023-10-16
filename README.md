@@ -92,6 +92,9 @@ The students below are all from the CS department at Purdue University. They per
    
 4. Joe Kang (Graduated in Dec 2022)
 
+### Teaching
+Spring 2024: CSCI 59000/49000 Wireless And Mobile Security
+
 
 ### Contact Information:
 
