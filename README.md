@@ -11,8 +11,9 @@ Hi, I am Zhilin Wang, currently in my third year as a Ph.D. candidate in the Dep
 
 ### News
 
+- **[10/2023]**: I published a Python package, xiezhi-ai, which can be used to do one-dimensional data anomaly detection!
 - **[03/2023]**: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepted to IEEE Transactions on Parallel and Distributed Systems!
-- **[12/2022]**: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted to IEEE Internet of Things Journal!
+- **[12/2022]**: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted by IEEE Internet of Things Journal!
 
 
 ### Education
@@ -26,14 +27,15 @@ Hi, I am Zhilin Wang, currently in my third year as a Ph.D. candidate in the Dep
 - Student Tutor, Purdue University, 05/2022-09/2022.
 
 ### Open Sourced Projects
+1. **xiezhi-ai**. The first one-dimensional anomaly detection tool. [[Link]](https://pypi.org/project/xiezhi-ai/)
 
-1. **HFL**. A benchmark of hierarchical federated learning based on TensorFlow. [[Code]](https://github.com/wzljerry/Hierarchical-Federated-Learning)
+2. **HFL**. A benchmark of hierarchical federated learning based on TensorFlow. [[Code]](https://github.com/wzljerry/Hierarchical-Federated-Learning)
 
-2. **RL-based Knapsack Problem Solver**. We provide a learning-based solution to multiple knapsack problems, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
+3. **RL-based Knapsack Problem Solver**. We provide a learning-based solution to multiple knapsack problems, which can get the approximate optimal solutions in polynomial time. [[Code]](https://github.com/wzljerry/Blockchain-based-Edge-Resource-Sharing-for-Metaverse)
 
-3. **Blockchain-based FL**. A user-friendly and robust blockchain-based federated learning framework in MEC will be applied to facilitate research and practical applications. [[Code]](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
+4. **Blockchain-based FL**. A user-friendly and robust blockchain-based federated learning framework in MEC will be applied to facilitate research and practical applications. [[Code]](https://github.com/wzljerry/FBFL-A-Flexible-Blockchain-based-Federated-Learning-Framework-in-Mobile-Edge-Computing)
 
-4. **Correlated Equbirum Optimizer**. An approximation method is provided. [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
+5. **Correlated Equbirum Optimizer**. An approximation method is provided. [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction)
 
 
 ### Selected Publications
