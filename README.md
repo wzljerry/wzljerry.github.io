@@ -87,7 +87,7 @@ The students below are all from the CS department at Purdue. They performed exce
 
 4. Richard Ekwenibe
 
-5. Xinyi Zhang (Graduated in May 2023, now at Simon Fraser University)
+5. Xinyi Zhang (Graduated in May 2023)
 
 #### Master Students
 1. Arushi Pandit
@@ -95,6 +95,8 @@ The students below are all from the CS department at Purdue. They performed exce
 2. Akshita Gupta
    
 4. Joe Kang (Graduated in Dec 2022)
+
+5. Praneetha Parupudi
 
 ### Teaching
 Spring 2024: CSCI 59000/49000 Wireless And Mobile Security
