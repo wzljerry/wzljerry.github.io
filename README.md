@@ -94,9 +94,11 @@ The students below are all from the CS department at Purdue. They performed exce
 
 2. Akshita Gupta
    
-4. Joe Kang (Graduated in Dec 2022)
+3. Joe Kang (Graduated in Dec 2022)
 
-5. Praneetha Parupudi
+4. Praneetha Parupudi
+
+5. Vedant Vimal
 
 ### Teaching
 Spring 2024: CSCI 59000/49000 Wireless And Mobile Security
