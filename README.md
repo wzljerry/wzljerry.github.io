@@ -16,7 +16,6 @@ Hi, I am Zhilin Wang, currently in my third year as a Ph.D. candidate in the Dep
 - **[12/2023]**: I passed my Ph.D. preliminary exam!
 - **[10/2023]**: I published a Python package, xiezhi-ai, which can be used to do one-dimensional data anomaly detection!
 - **[03/2023]**: Our paper, Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning, was accepted to IEEE Transactions on Parallel and Distributed Systems!
-- **[12/2022]**: Our paper, Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning, was accepted by IEEE Internet of Things Journal!
 
 
 ### Education
