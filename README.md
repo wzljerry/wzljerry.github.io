@@ -48,12 +48,13 @@ I've actively contributed as a reviewer for prestigious academic journals and co
 #### Journal Paper
 
 1. **[IEEE TPDS]**：***Wang Z***, Hu Q, Li R, et al. Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning[J]. arXiv preprint arXiv:2202.10938, 2022. [[Link]](https://ieeexplore.ieee.org/document/10061576) [[PDF]](TPDS.pdf)
+2. **[IEEE TPDS]**：***Wang Z***,  Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022. [[Link]](https://arxiv.org/abs/2206.02243). [[PDF]](IoTJ.pdf).
 
-2. **[Elsevier HCC]**:  ***Wang Z***, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [[Link]](https://www.sciencedirect.com/science/article/pii/S2667295221000349) [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction) [[PDF]](HCC.pdf)
+3. **[Elsevier HCC]**:  ***Wang Z***, Hu Q, Wang Y, et al. Transaction Pricing Mechanism Design and Assessment for Blockchain[J]. High-Confidence Computing, 2021: 100044. [[Link]](https://www.sciencedirect.com/science/article/pii/S2667295221000349) [[Code]](https://github.com/wzljerry/Correlated-Equilibrium-for-Blockchain-Transaction) [[PDF]](HCC.pdf)
 
-3. **[IEEE IoTJ]**:  Hu Q, ***Wang Z***, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [[Link]](https://arxiv.org/abs/2110.08671) [[PDF]](FEL.pdf) [[NSF CRII]](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false)
+4. **[IEEE IoTJ]**:  Hu Q, ***Wang Z***, Xu M, et al. Blockchain and Federated Edge Learning for Privacy-Preserving Mobile Crowdsensing[J]. IEEE Internet of Things Journal, 2021. [[Link]](https://arxiv.org/abs/2110.08671) [[PDF]](FEL.pdf) [[NSF CRII]](https://nsf.gov/awardsearch/showAward?AWD_ID=2105004&HistoricalAwards=false)
 
-4. **[IEEE IoTJ]**:  Peng C, Hu Q, ***Wang Z***, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). [[Link]](https://ieeexplore.ieee.org/abstract/document/9951138) [[PDF]](online.pdf)
+5. **[IEEE IoTJ]**:  Peng C, Hu Q, ***Wang Z***, et al. "Online Learning based Fast-Convergent and Energy-Efficient Device Selection in Federated Edge Learning." IEEE Internet of Things Journal (2022). [[Link]](https://ieeexplore.ieee.org/abstract/document/9951138) [[PDF]](online.pdf)
 
 #### Conference Paper
 
@@ -71,9 +72,8 @@ The following papers are on arXiv or submitted to journals and conferences:
 1. ***Wang Z***,  Hu Q, blockchain-based Federated Learning: A Comprehensive Survey. [[Link]](https://arxiv.org/abs/2110.02182) [[PDF]](BCFL_survey). Will be submitted to **IEEE Communications Surveys & Tutorials**.
 2. ***Wang Z***,  Hu Q et al. Straggler Mitigation and Latency Optimization in Blockchain-based Hierarchical Federated Learning. [[Link]](https://arxiv.org/abs/2308.01296). [[PDF]](2308.01296.pdf). Submitted to **IEEE TMC**.
 3. Li S, Hu Q, and ***Wang Z****. PoFEL: Energy-efficient Consensus for Blockchain-based Hierarchical Federated Learning. Submitted to **IEEE TPDS**.
-4.  ***Wang Z***,  Hu Q, Xiong Z. Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing[J]. arXiv preprint arXiv:2206.02243, 2022. [[Link]](https://arxiv.org/abs/2206.02243). [[PDF]](IoTJ.pdf). Submitted to **IEEE IoTJ**
-5. ***Wang Z***,  Hu Q et al. A novel attack against federated learning. Submitted to **USENIX Security ‘24**.
-6. ***Wang Z***, Hu Q. A Robust federated learning algorithm.  Will be submitted to **S&P '24**.
+4. ***Wang Z***,  Hu Q et al. A novel attack against federated learning. Submitted to **USENIX Security ‘24**.
+5. ***Wang Z***, Hu Q. A Robust federated learning algorithm.  Will be submitted to **S&P '24**.
 
 ### Supervised Students
 
