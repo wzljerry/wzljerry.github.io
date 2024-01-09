@@ -12,6 +12,8 @@ I've actively contributed as a reviewer for prestigious academic journals and co
 - Efficient Mobile Edge Computing. Designing efficient resource-sharing schemes to facilitate computational resource allocation on mobile edge servers.
 - Large-scale Distributed Optimization. Designing efficient and robust distributed algorithms to solve large-scale optimization problems.
 
+In general, my research focuses on the system design, network optimization, and security protection of distributed learning systems.
+
 ### News
 - **[12/2023]**: Our work, Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing, was accepted by IEEE Internet of Things Journal!
 - **[12/2023]**: I passed my Ph.D. preliminary exam!
