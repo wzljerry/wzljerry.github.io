@@ -28,7 +28,8 @@ In general, my research focuses on the system design, network optimization, and 
 
 ### Working Experiences
 
-- Research Assistant, Purdue University, 09/2021-present.
+- Teaching Assistant, Purdue University, 01/2024-present.
+- Research Assistant, Purdue University, 09/2021-12/2023.
 - Student Tutor, Purdue University, 05/2022-09/2022.
 
 ### Open Sourced Projects
