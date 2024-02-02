@@ -34,6 +34,8 @@ In general, my research focuses on the system design, network optimization, and 
 - Student Tutor, Purdue University, 05/2022-09/2022.
 
 ### Open Sourced Projects
+
+1. **Anton**. AI-powered Resume Generation Tool.[[link]](https://github.com/wzljerry/Anton)
 1. **xiezhi-ai**. The first one-dimensional anomaly detection tool. [[Link]](https://pypi.org/project/xiezhi-ai/)
 
 2. **HFL**. A benchmark of hierarchical federated learning based on TensorFlow. [[Code]](https://github.com/wzljerry/Hierarchical-Federated-Learning)
