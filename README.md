@@ -15,6 +15,7 @@ I've actively contributed as a reviewer for prestigious academic journals and co
 In general, my research focuses on the system design, network optimization, and security protection of distributed learning systems. If you are interested in my research, please directly email me.
 
 ### News
+- **[02/2024]**: I published an AI-powered tool, Anton, to help users generate personalized resumes.
 - **[12/2023]**: Our work, Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing, was accepted by IEEE Internet of Things Journal!
 - **[12/2023]**: I passed my Ph.D. preliminary exam!
 - **[10/2023]**: I published a Python package, xiezhi-ai, which can be used to do one-dimensional data anomaly detection!
