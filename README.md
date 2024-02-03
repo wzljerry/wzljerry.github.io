@@ -11,6 +11,7 @@ I've actively contributed as a reviewer for prestigious academic journals and co
 - Robust Federated Learning: Attacks and Defenses. Revealing the vulnerabilities of existing security mechanisms in federated learning and proposing lightweight and general schemes to protect industrial federated learning systems. 
 - Efficient Mobile Edge Computing. Designing efficient resource-sharing schemes to facilitate computational resource allocation on mobile edge servers.
 - Large-scale Distributed Optimization. Designing efficient and robust distributed algorithms to solve large-scale optimization problems.
+- Security & Privacy in Large Language Models. Toward improving the security and privacy protection of large language models during training and application.
 
 In general, my research focuses on the system design, network optimization, and security protection of distributed learning systems. If you are interested in my research, please directly email me.
 
