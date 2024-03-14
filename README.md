@@ -1,5 +1,5 @@
 ### Contact Information
-Address: Department of Computer Science, 
+Department of Computer Science, 
 
 Purdue University,
 
