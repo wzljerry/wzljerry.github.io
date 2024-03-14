@@ -1,3 +1,9 @@
+### Contact Information
+Address: Department of Computer Science, Purdue University,
+625 W Michigan St, Indianapolis, IN 46202
+Email: wang5327 AT purdue DOT edu
+
+
 ### Biography
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra)|[ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11)|[CV](Academic_CV_Zhilin.pdf)|[Blog](https://medium.com/@hellojerrywong18)|[Twitter](https://twitter.com/zhilinwang97)|[LinkedIn](https://www.linkedin.com/in/zhilin-wang-438618140/?locale=en_US)
@@ -14,9 +20,6 @@ I've actively contributed as a reviewer for prestigious academic journals and co
 - Security & Privacy in Large Language Models. Toward improving the security and privacy protection of large language models during training and application.
 
 In general, my research focuses on the system design, network optimization, and security protection of distributed learning systems. If you are interested in my research, please directly email me. 
-
-### Contact Information
-Email: wang5327 AT purdue DOT edu
 
 ### News
 - **[02/2024]**: I published an AI-powered tool, Anton, to help users generate personalized resumes.
