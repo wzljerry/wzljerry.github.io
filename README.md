@@ -109,9 +109,4 @@ Spring 2024: CSCI 59000/49000 Wireless And Mobile Security
 
 
 ### Contact Information:
-
-Department of Computer Science, Purdue University, IN, USA
-
-Office: IO 276, 625 W Michigan Street
-
-Email: wang5327 AT purdue DOT edu (prefered), wangzhil AT iu DOT edu, zhilinwang6314 AT gmail DOT com (personal)
+Email: wang5327 AT purdue DOT edu
