@@ -1,6 +1,10 @@
 ### Contact Information
-Address: Department of Computer Science, Purdue University,
+Address: Department of Computer Science, 
+
+Purdue University,
+
 625 W Michigan St, Indianapolis, IN 46202
+
 Email: wang5327 AT purdue DOT edu
 
 
