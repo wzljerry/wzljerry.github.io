@@ -1,7 +1,5 @@
 ### Contact Information
-Department of Computer Science, 
-
-Purdue University,
+Department of Computer Science, Purdue University,
 
 625 W Michigan St, Indianapolis, IN 46202
 
