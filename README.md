@@ -112,5 +112,7 @@ The students below are all from the CS department at Purdue. They performed exce
    
 3. Joe Kang (Graduated in Dec 2022)
 
+4. Deepak Chinthada
+
 ### Teaching
 Spring 2024: CSCI 59000/49000 Wireless And Mobile Security
