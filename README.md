@@ -39,8 +39,8 @@ In general, my research focuses on the system design, network optimization, and 
 - B.S., Nanchang University, 09/2016-06/2020
 
 ### Working Experiences
-- Co-founder and Lead AI Research Engineer, Havi, 04/2024-present.
-- Co-founder and Lead AI Research Engineer, Leago AI, 10/2023-present.
+- Co-founder and Lead AI Research Engineer, Havi Lab, Beijing, China, 04/2024-present.
+- Co-founder and Lead AI Research Engineer, Leago AI, CA, USA, 10/2023-present.
 - Teaching Assistant, Purdue University, 01/2024-present.
 - Research Assistant, Purdue University, 09/2021-12/2023.
 - Student Tutor, Purdue University, 05/2022-09/2022.
