@@ -46,7 +46,7 @@ In general, my research focuses on the system design, network optimization, and 
 - Co-founder and Lead AI Research Engineer, Leago AI, CA, USA, 10/2023-present.
 
   
-  Leago AI is a startup specializing in the legal sector. Our goal is to streamline the creation of legal documents, making the process of accessing legal services faster and more efficient for our users, ultimately saving them valuable time.
+  Leago AI is a startup specializing in the legal area. Our goal is to streamline the creation of legal documents, making the process of accessing legal services faster and more efficient for    our users, ultimately saving them valuable time.
 
 - Teaching Assistant, Purdue University, 01/2024-present.
 - Research Assistant, Purdue University, 09/2021-12/2023.
