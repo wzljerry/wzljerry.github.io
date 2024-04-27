@@ -41,7 +41,7 @@ In general, my research focuses on the system design, network optimization, and 
 ### Working Experiences
 - Co-founder and Lead AI Research Engineer, Havi Lab, Beijing, China, 04/2024-present.
 - Co-founder and Lead AI Research Engineer, Leago AI, CA, USA, 10/2023-present.
-- 
+
   Leago AI is a startup focused on the legal domain. We aim to help our users to quickly complete legal documents, thus simplifying the process of obtaining legal services and saving them time.
 
 - Teaching Assistant, Purdue University, 01/2024-present.
