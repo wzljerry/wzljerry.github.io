@@ -41,7 +41,8 @@ In general, my research focuses on the system design, network optimization, and 
 ### Working Experiences
 - Co-founder and Lead AI Research Engineer, Havi Lab, Beijing, China, 04/2024-present.
 
-  As the co-founder and leader of Havi AI Team, I established this research team dedicated to pioneering AI solutions for the recruitment industry.
+  
+  As the co-founder and leader of the Havi AI Team, I established this research group with a clear mission to innovate within the recruitment industry through cutting-edge AI solutions. Our team is dedicated to developing technologies that transform how companies identify, attract, and hire talent, making the process more efficient and effective. By integrating advanced algorithms and machine learning, we aim to enhance the precision of matching candidates with the right opportunities, thereby revolutionizing the recruitment landscape.
 
 - Co-founder and Lead AI Research Engineer, Leago AI, CA, USA, 10/2023-present.
 
