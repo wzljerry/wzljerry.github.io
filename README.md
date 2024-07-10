@@ -10,8 +10,6 @@ Email: wang5327 AT purdue DOT edu, jerrywang AT haviai DOT com, jerrywzl08 AT gm
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra)|[ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11)|[CV](Acadamic_CV_Zhilin.pdf)|[Blog](https://medium.com/@hellojerrywong18)|[Twitter](https://twitter.com/zhilinwang97)|[LinkedIn](https://www.linkedin.com/in/zhilin-wang-438618140/?locale=en_US)
 
-__Openings: I'm currently assembling an AI team at Havi Lab dedicated to developing a generative AI-based system for recruitment. If you are interested in the research and development of large language models, recommendation systems, and AI systems, please feel free to contact us. We will offer a competitive salary. See [job_description](ML_Intern.pdf) for details.__
-
 I am expected to graduate in December 2024. 
 
 I am Zhilin Wang, currently in my final year as a Ph.D. candidate in the Department of Computer Science at Purdue University West Lafayette, Indiana, USA. I'm also affiliated with [CERIAS](https://www.cerias.purdue.edu/) at Purdue. I obtained my bachelor's degree at Nanchang University in June 2020 and commenced my doctoral journey at Purdue in January 2021. My Ph.D. advisor is [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.).
