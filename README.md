@@ -125,6 +125,7 @@ The students below are all from the CS department at Purdue. They performed exce
 
 ### Teaching
 Spring 2024: CSCI 59000/49000 Wireless And Mobile Security
+Fall 2024: CSCI 45900 Capstone Project
 
 
 #### Talks
