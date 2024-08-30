@@ -96,7 +96,7 @@ The following papers are on arXiv or submitted to journals and conferences:
 1. ***Wang Z***,  Hu Q, blockchain-based Federated Learning: A Comprehensive Survey. [[Link]](https://arxiv.org/abs/2110.02182) [[PDF]](BCFL_survey). Will be submitted to **IEEE Communications Surveys & Tutorials**.
 2. ***Wang Z***,  Hu Q et al. Straggler Mitigation and Latency Optimization in Blockchain-based Hierarchical Federated Learning. [[Link]](https://arxiv.org/abs/2308.01296). [[PDF]](2308.01296.pdf). Submitted to **IEEE TMC**.
 3. Li S, Hu Q, and ***Wang Z****. PoFEL: Energy-efficient Consensus for Blockchain-based Hierarchical Federated Learning. Submitted to **IEEE TPDS**.
-4. ***Wang Z***,  Hu Q et al. Can We Trust the Similarity Measurement in Federated Learning? Submitted to **USENIX Security ‘24**.
+4. ***Wang Z***,  Hu Q et al. Can We Trust the Similarity Measurement in Federated Learning? Submitted to **IEEE TIFS**, Major Revision.
 5. ***Wang Z***, Hu Q. A Robust federated learning algorithm.  Will be submitted to **S&P '24**.
 
 ### Supervised Students
