@@ -1,7 +1,7 @@
 ### Contact Information
 Department of Computer Science, Purdue University
 
-Email: wang5327 AT purdue DOT edu, jerrywang AT haviai DOT com, jerrywzl08 AT gmail DOT com
+Email: wang5327 AT purdue DOT edu, jerrywzl08 AT gmail DOT com
 
 
 ### Biography
