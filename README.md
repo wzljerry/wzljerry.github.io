@@ -1,7 +1,5 @@
 ### Contact Information
-Department of Computer Science, Purdue University,
-
-625 W Michigan St, Indianapolis, IN 46202
+Department of Computer Science, Purdue University
 
 Email: wang5327 AT purdue DOT edu, jerrywang AT haviai DOT com, jerrywzl08 AT gmail DOT com
 
