@@ -35,7 +35,7 @@ In general, my research focuses on the system design, network optimization, and 
 - B.S., Nanchang University, 09/2016-06/2020
 
 ### Working Experiences
-- Co-founder and CTO, OpenJobs, SF, USA, 04/2024-present.
+- Co-founder and CTO, OpenJobs, San Francisco, USA, 04/2024-present.
 
   
   We have developed a cutting-edge job search engine that enables users to search for positions using their own words freely. In addition, they can access a comprehensive range of job-related information.
