@@ -35,7 +35,7 @@ In general, my research focuses on the system design, network optimization, and 
 - B.S., Nanchang University, 09/2016-06/2020
 
 ### Working Experiences
-- Co-founder and AI Team Leader, Havi Lab, Beijing, China, 04/2024-present.
+- Co-founder and CTO, OpenJobs, SF, USA, 04/2024-present.
 
   
   As the co-founder of the Havi AI Team, I spearheaded the creation of this research group to innovate AI solutions for the recruitment industry. We focus on developing technologies that streamline the hiring process, improving how companies identify and attract talent.
