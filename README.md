@@ -24,6 +24,7 @@ I've actively contributed as a reviewer for prestigious academic journals and co
 In general, my research focuses on the system design, network optimization, and security protection of AI systems. If you are interested in my research, please directly email me. 
 
 ### News
+- **10/2024**: Our work, Can We Trust the Similarity Measurement in Federated Learning?, was accepted by IEEE Transactions on Information Forensics & Security!
 - **02/2024**: I published an AI-powered tool, Anton, to help users generate personalized resumes.
 - **12/2023**: Our work, Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing, was accepted by IEEE Internet of Things Journal!
 - **12/2023**: I passed my Ph.D. preliminary exam!
