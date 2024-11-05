@@ -122,6 +122,11 @@ The students below are all from the CS department at Purdue. They performed exce
 
 5. Deepak Chinthada
 
+The following interns did an outstanding job in working on projects with me.
+
+1. Ruiyang Qin (Tongji University)
+2. Ruifeng Li (Shanghai University)
+
 ### Teaching
 Spring 2024: CSCI 59000/49000 Wireless And Mobile Security
 
