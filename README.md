@@ -3,6 +3,7 @@ Department of Computer Science, Purdue University
 
 Email: wang5327 AT purdue DOT edu, jerrywzl08 AT gmail DOT com
 
+Hiring! We have raised efficient funding, and we are looking for a talented Software Engineer and a Data Engineer! 
 
 ### Biography
 
