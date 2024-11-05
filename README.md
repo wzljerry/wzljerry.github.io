@@ -3,11 +3,13 @@ Department of Computer Science, Purdue University
 
 Email: wang5327 AT purdue DOT edu, jerrywzl08 AT gmail DOT com
 
-**Hiring! We have raised efficient funding, and we are looking for a talented Software Engineer and a Data Engineer!** 
+
 
 ### Biography
 
 [Google Scholar](https://scholar.google.com.hk/citations?user=-bmvpIcAAAAJ&hl=zh-CN&oi=sra)|[ResearchGate](https://www.researchgate.net/profile/Zhilin-Wang-11)|[CV](Acadamic_CV_Zhilin.pdf)|[Blog](https://medium.com/@hellojerrywong18)|[Twitter](https://twitter.com/zhilinwang97)|[LinkedIn](https://www.linkedin.com/in/zhilin-wang-438618140/?locale=en_US)
+
+**Hiring! We have raised efficient funding, and we are looking for a talented Software Engineer and a Data Engineer!** 
 
 I am expected to graduate in December 2024. 
 
