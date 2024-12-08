@@ -15,7 +15,9 @@ I am expected to graduate in December 2024.
 
 <!-- I built OpenJobs, the leading AI-powered job search engine. -->
 
-I am Zhilin Wang, currently in my final year as a Ph.D. candidate in the Department of Computer Science at Purdue University, Indiana, USA. I'm also affiliated with [CERIAS](https://www.cerias.purdue.edu/) at Purdue. I obtained my bachelor's degree at Nanchang University in June 2020 and commenced my doctoral journey at Purdue in January 2021. I am co-advised by [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.) and [Prof. Snehasis Mukhopadhyay](https://www.cs.purdue.edu/people/faculty/smukhop.html).
+I am Zhilin Wang, currently in my final year as a Ph.D. candidate in the Department of Computer Science at Purdue University, Indiana, USA. I'm also affiliated with [CERIAS](https://www.cerias.purdue.edu/) at Purdue. 
+
+I obtained my bachelor's degree at Nanchang University in June 2020 and my Ph.D. at Purdue University in December 2024. I am co-advised by [Prof. Qin Hu](https://cs.iupui.edu/~qinhu/?_gl=1*5xczlx*_ga*MTk3MTQ5NTQ4Ni4xNjYwMzg5NDUy*_ga_61CH0D2DQW*MTY3Nzg0MTM1MS4xOS4wLjE2Nzc4NDEzNTEuMC4wLjA.) and [Prof. Snehasis Mukhopadhyay](https://www.cs.purdue.edu/people/faculty/smukhop.html).
 I've actively contributed as a reviewer for prestigious academic journals and conferences such as IEEE TPDS, IEEE IoTJ, Elsevier JNCA, IEEE TCCN, and IEEE ICC. Additionally, I was a member of the Technical Program Committee (TPC) for the IEEE ICC'22 Workshop. My research interests are briefly described below:
 
 - Decentralized Machine Learning. Implementing blockchain to achieve decentralized federated learning focuses on addressing resource allocation challenges on local and edge devices and straggler mitigation in a hierarchical system.
