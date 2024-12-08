@@ -11,7 +11,6 @@ Email: wang5327 AT purdue DOT edu, jerrywzl08 AT gmail DOT com
 
 **Hiring! We are looking for a talented Software Engineer and a Data Engineer!** 
 
-I am expected to graduate in December 2024. 
 
 <!-- I built OpenJobs, the leading AI-powered job search engine. -->
 
