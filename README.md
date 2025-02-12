@@ -14,9 +14,9 @@ Email: wang5327 AT purdue DOT edu,  jerrywangzhilin AT gmail DOT com
 
 <!-- I built OpenJobs, the leading AI-powered job search engine. -->
 
-I am Zhilin Wang, co-founder and CTO of OpenJobs AI, where I lead technological innovation in AI-driven recruitment solutions. I received my Ph.D. from Purdue University in December 2024, where I was jointly advised by Prof. Qin Hu and Prof. Snehasis Mukhopadhyay. 
+I am Zhilin Wang, co-founder and CTO of OpenJobs AI, where I lead technological innovation in AI-driven recruitment solutions. I received my Ph.D. from Purdue University in December 2024. 
 
-I've actively contributed as a reviewer for prestigious academic journals and conferences such as IEEE TPDS, IEEE IoTJ, Elsevier JNCA, IEEE TCCN, and IEEE ICC. Additionally, I was a member of the Technical Program Committee (TPC) for the IEEE ICC'22 Workshop. My research interests are briefly described below:
+Throughout my academic career, I have been actively engaged in the research community, serving as a reviewer for several prestigious academic journals and conferences including IEEE Transactions on Parallel and Distributed Systems (TPDS), IEEE Internet of Things Journal (IoTJ), Elsevier Journal of Network and Computer Applications (JNCA), IEEE Transactions on Cognitive Communications and Networking (TCCN), and IEEE International Conference on Communications (ICC). I also contributed as a Technical Program Committee (TPC) member for the IEEE ICC'22 Workshop. My research interests are briefly described below:
 
 - Decentralized Machine Learning. Implementing blockchain to achieve decentralized federated learning focuses on addressing resource allocation challenges on local and edge devices and straggler mitigation in a hierarchical system.
 - Robust Machine Learning. Revealing the vulnerabilities of existing security mechanisms in federated learning and proposing lightweight and general schemes to protect industrial federated learning systems. 
