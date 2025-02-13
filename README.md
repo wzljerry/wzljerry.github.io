@@ -1,7 +1,7 @@
 ### Contact Information
 Department of Computer Science, Purdue University
 
-Email: wang5327 AT purdue DOT edu,  jerrywangzhilin AT gmail DOT com
+Email: jerry.wang AT openjobs-ai DOT com, wang5327 AT purdue DOT edu
 
 
 
