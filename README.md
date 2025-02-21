@@ -1,5 +1,5 @@
 ### Contact Information
-AVIC Capital Building, Floor 6, Room 135
+AVIC Capital Building, Beijing, China
 
 Email: jerry.wang AT openjobs-ai DOT com, wang5327 AT purdue DOT edu
 
