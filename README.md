@@ -1,5 +1,5 @@
 ### Contact Information
-Department of Computer Science, Purdue University
+AVIC Capital Building, Floor 6, Room 135
 
 Email: jerry.wang AT openjobs-ai DOT com, wang5327 AT purdue DOT edu
 
