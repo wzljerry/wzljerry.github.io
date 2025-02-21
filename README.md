@@ -1,5 +1,5 @@
 ### Contact Information
-AVIC Capital Building, Beijing, China
+Avic Capital Tower, 4th District, Wangjing East Park, Chaoyang, Beijing
 
 Email: jerry.wang AT openjobs-ai DOT com, wang5327 AT purdue DOT edu
 
