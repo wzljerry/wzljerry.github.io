@@ -22,7 +22,7 @@ Throughout my academic career, I have been actively engaged in the research comm
 - Large-scale Distributed Optimization. Designing efficient and robust distributed algorithms to solve large-scale optimization problems.
 - Security & Privacy in Large Language Models. Toward improving the security and privacy protection of large language models during training and application.
 
-In general, my research focuses on the system design, network optimization, and security protection of AI systems. If you are interested in my research, please directly email me. 
+In general, my research focuses on the large-scale system design, network optimization, and security protection of AI systems. If you are interested in my research, please directly email me. 
 
 ### News
 - **11/2024**: I passed my Ph.D. defense!
