@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zhilin Wang - Ph.D., Co-founder & CTO</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;900&family=Source+Code+Pro:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        /* Custom styles to complement Tailwind CSS */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0a0a0a;
+            color: #e2e8f0;
+            scroll-behavior: smooth;
+        }
+        #bg-canvas {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1; /* Place canvas behind all other content */
+        }
+        .font-mono {
+            font-family: 'Source Code Pro', monospace;
+        }
+        .glass-effect {
+            background: rgba(17, 24, 39, 0.6);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .bento-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 1rem;
+        }
+        .interactive-card {
+            transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
+            border: 1px solid transparent;
+        }
+        .interactive-card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(0, 255, 255, 0.5);
+            box-shadow: 0 10px 25px rgba(0, 255, 255, 0.15);
+        }
+        .bento-item {
+            cursor: pointer;
+        }
+        .gradient-text {
+            background: -webkit-linear-gradient(45deg, #00ffff, #00aaff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .section-title::after {
+            content: '';
+            display: block;
+            width: 50px;
+            height: 3px;
+            background-color: #00ffff;
+            margin-top: 0.5rem;
+            border-radius: 2px;
+        }
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #1e293b;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: #00ffff;
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #00e0e0;
+        }
+    </style>
+</head>
+<body class="antialiased">
+
+    <!-- Interactive Particle Background -->
+    <canvas id="bg-canvas"></canvas>
+
+    <!-- Header & Navigation -->
+    <header id="header" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300">
+        <nav class="container mx-auto px-6 py-4 flex justify-between items-center glass-effect rounded-b-lg">
+            <a href="#" class="text-xl font-bold tracking-wider">Zhilin Wang</a>
+            <div class="hidden md:flex items-center space-x-8">
+                <a href="#about" class="hover:text-cyan-400 transition-colors">About</a>
+                <a href="#projects" class="hover:text-cyan-400 transition-colors">Projects</a>
+                <a href="#publications" class="hover:text-cyan-400 transition-colors">Publications</a>
+                <a href="#contact" class="hover:text-cyan-400 transition-colors">Contact</a>
+            </div>
+            <div class="flex items-center space-x-4 text-xl">
+                <a href="https://github.com/wzljerry" target="_blank" class="hover:text-cyan-400 transition-colors" aria-label="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://scholar.google.com/citations?user=your_scholar_id" target="_blank" class="hover:text-cyan-400 transition-colors" aria-label="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
+                <a href="https://www.linkedin.com/in/zhilin-wang-0125a81a3/" target="_blank" class="hover:text-cyan-400 transition-colors" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto px-6 relative z-10">
+        <!-- Hero Section -->
+        <section id="hero" class="min-h-screen flex items-center justify-center text-center">
+            <div class="max-w-4xl">
+                <h1 class="text-5xl md:text-7xl font-black mb-4 tracking-tighter leading-tight animate-fade-in-down">
+                    Zhilin Wang, <span class="gradient-text">Ph.D.</span>
+                </h1>
+                <p class="text-xl md:text-2xl text-slate-300 mb-4 animate-fade-in-up" style="animation-delay: 0.3s;">
+                    Co-founder & CTO at OpenJobs AI
+                </p>
+                <p id="typewriter" class="text-lg md:text-xl text-slate-400 font-mono mb-8 animate-fade-in-up" style="animation-delay: 0.6s;">
+                    <!-- Typewriter text will be injected here -->
+                </p>
+                <div class="flex flex-col sm:flex-row justify-center gap-4 animate-fade-in-up" style="animation-delay: 0.9s;">
+                    <a href="#contact" class="inline-block bg-cyan-500 text-gray-900 font-bold py-3 px-8 rounded-lg hover:bg-cyan-400 transition-all duration-300 transform hover:scale-105">
+                        Contact Me
+                    </a>
+                    <a href="#" class="inline-block border-2 border-cyan-500 text-cyan-400 font-bold py-3 px-8 rounded-lg hover:bg-cyan-500 hover:text-gray-900 transition-all duration-300 transform hover:scale-105" download>
+                        Download CV
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="py-20">
+            <h2 class="text-3xl font-bold mb-8 section-title">About Me</h2>
+            <div class="grid md:grid-cols-5 gap-10">
+                <div class="md:col-span-3 text-slate-300 leading-relaxed">
+                    <p class="mb-4">
+                        I am the Co-founder and CTO of OpenJobs AI, where I lead technological innovation in AI-driven recruitment solutions. I received my Ph.D. from Purdue University, focusing on building secure, robust, and efficient large-scale AI systems.
+                    </p>
+                    <p class="mb-6">
+                        My research interests lie at the intersection of system design, network optimization, and security. I am passionate about solving complex problems in the following areas:
+                    </p>
+                    <ul class="space-y-3">
+                        <li class="flex items-start"><i class="fas fa-microchip text-cyan-400 mt-1 mr-3 w-5 text-center"></i><span><strong>Decentralized & Federated Learning:</strong> Resource allocation and straggler mitigation.</span></li>
+                        <li class="flex items-start"><i class="fas fa-shield-halved text-cyan-400 mt-1 mr-3 w-5 text-center"></i><span><strong>Robust Machine Learning:</strong> Defending against vulnerabilities in federated systems.</span></li>
+                        <li class="flex items-start"><i class="fas fa-server text-cyan-400 mt-1 mr-3 w-5 text-center"></i><span><strong>Mobile Edge Computing:</strong> Designing efficient resource-sharing schemes.</span></li>
+                        <li class="flex items-start"><i class="fas fa-globe text-cyan-400 mt-1 mr-3 w-5 text-center"></i><span><strong>Large-Scale Distributed Optimization:</strong> Developing efficient and robust algorithms.</span></li>
+                        <li class="flex items-start"><i class="fas fa-lock text-cyan-400 mt-1 mr-3 w-5 text-center"></i><span><strong>Security & Privacy in LLMs:</strong> Protecting large language models during training and application.</span></li>
+                    </ul>
+                </div>
+                <div class="md:col-span-2">
+                     <div class="glass-effect rounded-lg p-6 h-full">
+                        <h3 class="font-bold text-xl mb-4 text-cyan-400">Experience & Education</h3>
+                        <div class="relative border-l-2 border-cyan-800 space-y-8">
+                            <div class="pl-8 relative">
+                                <div class="absolute -left-[11px] top-1 w-5 h-5 bg-cyan-400 rounded-full border-4 border-gray-800"></div>
+                                <p class="font-bold">Co-founder & CTO, OpenJobs</p>
+                                <p class="text-sm text-slate-400">2024 - Present</p>
+                            </div>
+                             <div class="pl-8 relative">
+                                <div class="absolute -left-[11px] top-1 w-5 h-5 bg-cyan-400 rounded-full border-4 border-gray-800"></div>
+                                <p class="font-bold">Ph.D., Purdue University</p>
+                                <p class="text-sm text-slate-400">2021 - 2024</p>
+                            </div>
+                            <div class="pl-8 relative">
+                                <div class="absolute -left-[11px] top-1 w-5 h-5 bg-cyan-400 rounded-full border-4 border-gray-800"></div>
+                                <p class="font-bold">B.S., Nanchang University</p>
+                                <p class="text-sm text-slate-400">2016 - 2020</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="py-20">
+            <h2 class="text-3xl font-bold mb-8 section-title">Open Source Projects</h2>
+            <div class="bento-grid">
+                <!-- Anton -->
+                <div class="interactive-card bento-item glass-effect rounded-lg p-6 row-span-1 col-span-1 md:col-span-2" onclick="window.open('https://github.com/wzljerry/anton', '_blank')">
+                    <h3 class="text-xl font-bold text-cyan-400 mb-2">Anton</h3>
+                    <p class="text-slate-300 mb-4">An AI-powered tool for generating personalized resumes, streamlining the job application process.</p>
+                    <div class="flex flex-wrap gap-2 font-mono text-xs">
+                        <span class="bg-cyan-900/50 text-cyan-300 py-1 px-2 rounded">AI/ML</span>
+                        <span class="bg-cyan-900/50 text-cyan-300 py-1 px-2 rounded">Web Tool</span>
+                    </div>
+                </div>
+                <!-- xiezhi-ai -->
+                <div class="interactive-card bento-item glass-effect rounded-lg p-6" onclick="window.open('https://github.com/wzljerry/xiezhi-ai', '_blank')">
+                    <h3 class="text-xl font-bold text-cyan-400 mb-2">xiezhi-ai</h3>
+                    <p class="text-slate-300 mb-4">A Python package for one-dimensional data anomaly detection.</p>
+                    <div class="flex flex-wrap gap-2 font-mono text-xs">
+                         <span class="bg-cyan-900/50 text-cyan-300 py-1 px-2 rounded">Python</span>
+                         <span class="bg-cyan-900/50 text-cyan-300 py-1 px-2 rounded">Data Science</span>
+                    </div>
+                </div>
+                <!-- HFL -->
+                <div class="interactive-card bento-item glass-effect rounded-lg p-6" onclick="window.open('https://github.com/wzljerry/HFL', '_blank')">
+                    <h3 class="text-xl font-bold text-cyan-400 mb-2">HFL Benchmark</h3>
+                    <p class="text-slate-300 mb-4">A benchmark for Hierarchical Federated Learning based on TensorFlow.</p>
+                     <div class="flex flex-wrap gap-2 font-mono text-xs">
+                         <span class="bg-cyan-900/50 text-cyan-300 py-1 px-2 rounded">Federated Learning</span>
+                         <span class="bg-cyan-900/50 text-cyan-300 py-1 px-2 rounded">TensorFlow</span>
+                    </div>
+                </div>
+                <!-- Blockchain-based FL -->
+                <div class="interactive-card bento-item glass-effect rounded-lg p-6" onclick="window.open('https://github.com/wzljerry/BC-FL', '_blank')">
+                    <h3 class="text-xl font-bold text-cyan-400 mb-2">Blockchain-based FL</h3>
+                    <p class="text-slate-300 mb-4">A robust framework for blockchain-based federated learning in MEC.</p>
+                    <div class="flex flex-wrap gap-2 font-mono text-xs">
+                         <span class="bg-cyan-900/50 text-cyan-300 py-1 px-2 rounded">Blockchain</span>
+                         <span class="bg-cyan-900/50 text-cyan-300 py-1 px-2 rounded">MEC</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Publications Section -->
+        <section id="publications" class="py-20">
+            <h2 class="text-3xl font-bold mb-8 section-title">Selected Publications</h2>
+            <div class="space-y-6">
+                <!-- Publication 1 -->
+                <div class="glass-effect rounded-lg p-6 interactive-card">
+                    <h3 class="font-bold text-lg">Incentive Mechanism Design for Joint Resource Allocation in Blockchain-based Federated Learning</h3>
+                    <p class="text-slate-400 mb-3">IEEE Transactions on Parallel and Distributed Systems (TPDS), 2023</p>
+                    <div class="flex space-x-4">
+                        <a href="https://ieeexplore.ieee.org/abstract/document/10091350" target="_blank" class="text-cyan-400 font-medium hover:underline">Link</a>
+                        <a href="https://arxiv.org/pdf/2203.04735" target="_blank" class="text-cyan-400 font-medium hover:underline">PDF</a>
+                    </div>
+                </div>
+                <!-- Publication 2 -->
+                <div class="glass-effect rounded-lg p-6 interactive-card">
+                    <h3 class="font-bold text-lg">Resource Optimization for Blockchain-based Federated Learning in Mobile Edge Computing</h3>
+                    <p class="text-slate-400 mb-3">IEEE Internet of Things Journal (IoTJ), 2023</p>
+                     <div class="flex space-x-4">
+                        <a href="https://ieeexplore.ieee.org/abstract/document/10360814" target="_blank" class="text-cyan-400 font-medium hover:underline">Link</a>
+                        <a href="https://arxiv.org/pdf/2204.09135" target="_blank" class="text-cyan-400 font-medium hover:underline">PDF</a>
+                    </div>
+                </div>
+                 <!-- Publication 3 -->
+                <div class="glass-effect rounded-lg p-6 interactive-card">
+                    <h3 class="font-bold text-lg">Transaction Pricing Mechanism Design and Assessment for Blockchain</h3>
+                    <p class="text-slate-400 mb-3">High-Confidence Computing, 2021</p>
+                     <div class="flex space-x-4">
+                        <a href="https://www.sciencedirect.com/science/article/pii/S266729522100049X" target="_blank" class="text-cyan-400 font-medium hover:underline">Link</a>
+                        <a href="https://arxiv.org/pdf/2006.07921" target="_blank" class="text-cyan-400 font-medium hover:underline">PDF</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="py-20 text-center">
+             <h2 class="text-3xl font-bold mb-4 section-title mx-auto">Get In Touch</h2>
+             <p class="max-w-xl mx-auto text-slate-300 mb-8">
+                I'm always open to discussing new research, projects, or collaboration opportunities. My inbox is always open.
+             </p>
+             <a href="mailto:jerry.wang@openjobs-ai.com"
+                 class="font-mono text-xl text-cyan-400 hover:underline">
+                 jerry.wang@openjobs-ai.com
+             </a>
+        </section>
+
+    </main>
+
+    <footer class="text-center py-6 text-slate-500 text-sm relative z-10">
+        <p>&copy; <span id="year"></span> Zhilin Wang. All Rights Reserved.</p>
+        <p>Designed with a futuristic touch.</p>
+    </footer>
+
+    <script>
+        // --- Three.js Particle Background ---
+        const scene = new THREE.Scene();
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const renderer = new THREE.WebGLRenderer({
+            canvas: document.querySelector('#bg-canvas'),
+            alpha: true // Make canvas transparent
+        });
+
+        renderer.setPixelRatio(window.devicePixelRatio);
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        camera.position.z = 5;
+        
+        // --- Create Particles ---
+        const particlesGeometry = new THREE.BufferGeometry();
+        const particlesCount = 5000;
+        const posArray = new Float32Array(particlesCount * 3); // x, y, z
+
+        for (let i = 0; i < particlesCount * 3; i++) {
+            posArray[i] = (Math.random() - 0.5) * 10;
+        }
+
+        particlesGeometry.setAttribute('position', new THREE.BufferAttribute(posArray, 3));
+        const particlesMaterial = new THREE.PointsMaterial({
+            size: 0.008,
+            color: 0x00ffff
+        });
+        const particlesMesh = new THREE.Points(particlesGeometry, particlesMaterial);
+        scene.add(particlesMesh);
+
+        // --- Mouse Interaction ---
+        let mouseX = 0;
+        let mouseY = 0;
+        document.addEventListener('mousemove', (event) => {
+            mouseX = event.clientX;
+            mouseY = event.clientY;
+        });
+
+        // --- Animation Loop ---
+        const clock = new THREE.Clock();
+        const animate = () => {
+            requestAnimationFrame(animate);
+            const elapsedTime = clock.getElapsedTime();
+
+            // Animate particles
+            particlesMesh.rotation.y = elapsedTime * 0.05;
+            particlesMesh.rotation.x = elapsedTime * 0.05;
+
+            // Mouse parallax effect
+            const targetX = (mouseX / window.innerWidth) * 2 - 1;
+            const targetY = -(mouseY / window.innerHeight) * 2 + 1;
+            particlesMesh.rotation.y += 0.5 * (targetX - particlesMesh.rotation.y);
+            particlesMesh.rotation.x += 0.5 * (targetY - particlesMesh.rotation.x);
+
+
+            renderer.render(scene, camera);
+        };
+        animate();
+
+        // --- Window Resize Handler ---
+        window.addEventListener('resize', () => {
+            renderer.setSize(window.innerWidth, window.innerHeight);
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+        });
+
+
+        // --- Page specific JS ---
+        // Set current year in footer
+        document.getElementById('year').textContent = new Date().getFullYear();
+
+        // Typewriter effect
+        const typewriterElement = document.getElementById('typewriter');
+        const textToType = "Building secure and efficient large-scale AI systems.";
+        let index = 0;
+        function type() {
+            if (index < textToType.length) {
+                typewriterElement.textContent += textToType.charAt(index);
+                index++;
+                setTimeout(type, 50);
+            }
+        }
+        window.onload = function() {
+            setTimeout(type, 1000); // Start typing after initial animations
+        }
+
+        // Header background on scroll
+        const header = document.getElementById('header');
+        window.onscroll = function() {
+            if (window.scrollY > 50) {
+                header.classList.add('py-2');
+                header.classList.remove('py-4');
+            } else {
+                header.classList.add('py-4');
+                header.classList.remove('py-2');
+            }
+        };
+
+        // Simple fade-in animation for sections on scroll
+        const sections = document.querySelectorAll('section');
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.classList.add('animate-fade-in');
+                }
+            });
+        }, { threshold: 0.1 });
+        sections.forEach(section => {
+            section.style.opacity = '0';
+            section.style.transition = 'opacity 0.8s ease-in-out, transform 0.8s ease-in-out';
+            section.style.transform = 'translateY(20px)';
+            observer.observe(section);
+        });
+
+        // Add keyframe animations to the document's head
+        const style = document.createElement('style');
+        style.innerHTML = `
+            @keyframes fadeIn {
+                from { opacity: 0; transform: translateY(20px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+            .animate-fade-in {
+                opacity: 1 !important;
+                transform: translateY(0) !important;
+            }
+            @keyframes fadeInUp {
+                from { opacity: 0; transform: translateY(20px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+            .animate-fade-in-up {
+                animation: fadeInUp 0.8s ease-out forwards;
+                opacity: 0;
+            }
+            @keyframes fadeInDown {
+                from { opacity: 0; transform: translateY(-20px); }
+                to { opacity: 1; transform: translateY(0); }
+            }
+            .animate-fade-in-down {
+                animation: fadeInDown 0.8s ease-out forwards;
+                opacity: 0;
+            }
+        `;
+        document.head.appendChild(style);
+    </script>
+
+</body>
+</html>
